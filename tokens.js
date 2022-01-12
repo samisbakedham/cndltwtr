@@ -10,11 +10,6 @@ const TOP_TOKENS = [
     address: '0xbc138bD20C98186CC0342C8e380953aF0cb48BA8',
     stable: false,
   },
-   {
-    symbol: 'BNB',
-    address: '0xB8c77482e45F1F44dE1745F52C74426C631bDD52',
-    stable: false,
-  },
 ];
 
 // returns undefined if address not found
