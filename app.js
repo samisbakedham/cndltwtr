@@ -25,6 +25,7 @@ function handleEvent(event) {
     return;
   }
 
+  
   const symbol = event.tokenInfo.symbol;
   const name = event.tokenInfo.name;
   const { from, to } = event;
