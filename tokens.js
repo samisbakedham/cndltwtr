@@ -6,8 +6,38 @@ const THROTTLE_API_MS = 1000;
 
 const TOP_TOKENS = [
   {
-    symbol: 'CNDL',
-    address: '0xbc138bD20C98186CC0342C8e380953aF0cb48BA8',
+    symbol: 'IOST',
+    address: '0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab',
+    stable: false,
+  },
+  {
+    symbol: 'AOA',
+    address: '0x9ab165D795019b6d8B3e971DdA91071421305e5a',
+    stable: false,
+  },
+  {
+    symbol: 'THETA',
+    address: '0x3883f5e181fccaF8410FA61e12b59BAd963fb645',
+    stable: false,
+  },
+  {
+    symbol: 'LRC',
+    address: '0xEF68e7C694F40c8202821eDF525dE3782458639f',
+    stable: false,
+  },
+  {
+    symbol: 'MANA',
+    address: '0x0F5D2fB29fb7d3CFeE444a200298f468908cC942',
+    stable: false,
+  },
+  {
+    symbol: 'NEXO',
+    address: '0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206',
+    stable: false,
+  },
+  {
+    symbol: 'DENT',
+    address: '0x3597bfD533a99c9aa083587B074434E61Eb0A258',
     stable: false,
   },
 ];
