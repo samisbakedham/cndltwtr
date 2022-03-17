@@ -9,7 +9,7 @@
   "author": "Yura Sherman",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.26.0",
     "delay": "^4.1.0",
     "dotenv": "^6.2.0",
     "moment": "^2.24.0",
